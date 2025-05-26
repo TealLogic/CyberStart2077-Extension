@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "CyberStart Homepage",
+  "version": "1.0",
+  "description": "Sets the new tab to CyberStart and opens it on icon click.",
+  "action": {
+    "default_title": "Go to CyberStart",
+    "default_icon": {
+      "128": "icon.png"
+    }
+  },
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": [],
+  "icons": {
+    "128": "icon.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
