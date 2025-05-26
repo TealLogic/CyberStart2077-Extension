@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Cyberpunk 2077 Homepage",
   "version": "1.0",
-  "description": "Set your new tab page a Cyberpunk 2077 themed homepage.",
+  "description": "Cyberpunk 2077 themed homepage.",
   "action": {
     "default_title": "Go to CyberStart",
     "default_icon": {
