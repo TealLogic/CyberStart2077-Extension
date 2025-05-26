@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Cyberpunk 2077 Homepage",
+  "name": "Cyberpunk 2077 Themed Homepage",
   "version": "1.0",
-  "description": "Cyberpunk 2077 themed homepage.",
+  "description": "A Cyberpunk 2077 themed homepage.",
   "action": {
     "default_title": "Go to CyberStart",
     "default_icon": {
