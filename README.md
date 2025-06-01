@@ -1,4 +1,4 @@
-A Cyberpunk 2077 inspired browser startpage!
+A Cyberpunk 2077 inspired browser start page!
 
 - Chromium extension: Coming shortly!
   
