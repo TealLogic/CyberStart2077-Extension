@@ -13,9 +13,6 @@
     "newtab": "index.html"
   },
   "permissions": [],
-  "background": {
-    "scripts": ["background.js"]
-  },
   "icons": {
     "128": "icon.png"
   },
