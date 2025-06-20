@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Cyberpunk 2077 Themed Homepage",
   "version": "1.4",
-  "description": "Cyberpunk 2077 themed homepage with dynamic and interactive elements.",
+  "description": "An immersive Cyberpunk 2077 themed homepage with dynamic and interactive elements!",
   "browser_action": {
     "default_title": "CyberStart",
     "default_icon": {
